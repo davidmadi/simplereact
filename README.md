@@ -10,4 +10,4 @@ npm install
 npm start
 
 
-//goto: localhost:3000
+//Open the browser and go to: http://localhost:3000
